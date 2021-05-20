@@ -1,0 +1,371 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.BLL\\HeadWorksDragonFight.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.BLL\\HeadWorksDragonFight.BLL.csproj",
+        "projectName": "HeadWorksDragonFight.BLL",
+        "projectPath": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.BLL\\HeadWorksDragonFight.BLL.csproj",
+        "packagesPath": "C:\\Users\\Ырырыр\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ырырыр\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.DAL\\HeadWorksDragonFight.DAL.csproj": {
+                "projectPath": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.DAL\\HeadWorksDragonFight.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.Core\\HeadWorksDragonFight.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.Core\\HeadWorksDragonFight.Core.csproj",
+        "projectName": "HeadWorksDragonFight.Core",
+        "projectPath": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.Core\\HeadWorksDragonFight.Core.csproj",
+        "packagesPath": "C:\\Users\\Ырырыр\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ырырыр\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.DAL\\HeadWorksDragonFight.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.DAL\\HeadWorksDragonFight.DAL.csproj",
+        "projectName": "HeadWorksDragonFight.DAL",
+        "projectPath": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.DAL\\HeadWorksDragonFight.DAL.csproj",
+        "packagesPath": "C:\\Users\\Ырырыр\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ырырыр\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.Core\\HeadWorksDragonFight.Core.csproj": {
+                "projectPath": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.Core\\HeadWorksDragonFight.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.csproj",
+        "projectName": "HeadWorksDragonFight",
+        "projectPath": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.csproj",
+        "packagesPath": "C:\\Users\\Ырырыр\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ырырыр\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.BLL\\HeadWorksDragonFight.BLL.csproj": {
+                "projectPath": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.BLL\\HeadWorksDragonFight.BLL.csproj"
+              },
+              "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.Core\\HeadWorksDragonFight.Core.csproj": {
+                "projectPath": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.Core\\HeadWorksDragonFight.Core.csproj"
+              },
+              "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.DAL\\HeadWorksDragonFight.DAL.csproj": {
+                "projectPath": "C:\\Users\\Ырырыр\\Desktop\\HeadWorksDragonFight\\HeadWorksDragonFight\\HeadWorksDragonFight.DAL\\HeadWorksDragonFight.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.11.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

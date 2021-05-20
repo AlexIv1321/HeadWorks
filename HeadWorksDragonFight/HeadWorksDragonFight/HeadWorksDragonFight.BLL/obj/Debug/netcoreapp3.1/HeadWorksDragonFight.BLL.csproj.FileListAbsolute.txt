@@ -1,0 +1,28 @@
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.BLL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.csprojAssemblyReference.cache
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.BLL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.AssemblyInfoInputs.cache
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.BLL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.AssemblyInfo.cs
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.BLL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.BLL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.deps.json
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.BLL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.dll
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.BLL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.pdb
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.BLL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.dll
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.BLL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.dll
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.BLL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.pdb
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.BLL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.pdb
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.BLL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.csproj.CopyComplete
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.BLL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.dll
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.BLL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.pdb
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.BLL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.deps.json
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.BLL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.dll
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.BLL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.pdb
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.BLL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.dll
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.BLL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.dll
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.BLL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.pdb
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.BLL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.pdb
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.BLL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.csprojAssemblyReference.cache
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.BLL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.AssemblyInfoInputs.cache
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.BLL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.AssemblyInfo.cs
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.BLL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.BLL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.csproj.CopyComplete
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.BLL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.dll
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.BLL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.BLL.pdb

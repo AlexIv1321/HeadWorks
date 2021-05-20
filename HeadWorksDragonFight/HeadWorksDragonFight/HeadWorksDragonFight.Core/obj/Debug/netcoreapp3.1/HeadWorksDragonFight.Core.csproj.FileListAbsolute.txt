@@ -1,0 +1,17 @@
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.Core\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.deps.json
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.Core\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.dll
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.Core\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.pdb
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.Core\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.AssemblyInfoInputs.cache
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.Core\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.AssemblyInfo.cs
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.Core\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.Core\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.dll
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.Core\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.pdb
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.Core\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.deps.json
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.Core\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.dll
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.Core\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.pdb
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.Core\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.csprojAssemblyReference.cache
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.Core\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.AssemblyInfoInputs.cache
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.Core\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.AssemblyInfo.cs
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.Core\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.Core\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.dll
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.Core\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.pdb

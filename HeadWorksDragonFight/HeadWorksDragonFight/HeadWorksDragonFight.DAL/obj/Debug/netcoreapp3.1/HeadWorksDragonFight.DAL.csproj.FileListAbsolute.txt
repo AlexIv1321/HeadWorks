@@ -1,0 +1,30 @@
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.csprojAssemblyReference.cache
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.AssemblyInfoInputs.cache
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.AssemblyInfo.cs
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.deps.json
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.runtimeconfig.json
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.runtimeconfig.dev.json
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.dll
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.pdb
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.dll
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.pdb
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.csproj.CopyComplete
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.dll
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.pdb
+C:\Users\Ырырыр\source\repos\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.genruntimeconfig.cache
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.deps.json
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.runtimeconfig.json
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.runtimeconfig.dev.json
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.dll
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.pdb
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.dll
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\bin\Debug\netcoreapp3.1\HeadWorksDragonFight.Core.pdb
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.csprojAssemblyReference.cache
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.AssemblyInfoInputs.cache
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.AssemblyInfo.cs
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.csproj.CopyComplete
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.dll
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.pdb
+C:\Users\Ырырыр\Desktop\Задача от роботадателя\HeadWorksDragonFight\HeadWorksDragonFight.DAL\obj\Debug\netcoreapp3.1\HeadWorksDragonFight.DAL.genruntimeconfig.cache
